@@ -43,13 +43,16 @@ Requisitos obrigatórios
     | ♦ Cadastro | ↦ | ♢ Confirmação de email | ↦ | ♦ Área Usuário |
   
 ♦ Design
-   Figma link:
-    https://www.figma.com/design/JvwNbD9eN6ki9GaVnxaETf/Untitled?node-id=0-1&t=sf8lnwoEnwuKzPWU-1
+   Figma
+   
+    link: https://www.figma.com/design/JvwNbD9eN6ki9GaVnxaETf/Untitled?node-id=0-1&t=sf8lnwoEnwuKzPWU-1
+Protótipo Home:
 
-<img width="1512" alt="Main page" src="https://github.com/user-attachments/assets/5e682708-c782-4ef8-b2ea-fed80c181df7" />
+    <img width="1512" alt="Main page" src="https://github.com/user-attachments/assets/5e682708-c782-4ef8-b2ea-fed80c181df7" />
 
+Protótipo Área Usuário:
 
-
+    ![Tabela (1)](https://github.com/user-attachments/assets/2245eb95-f4b5-410a-a2b1-c78b5fd3bb91)
 
 
 
