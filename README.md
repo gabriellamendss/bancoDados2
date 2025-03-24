@@ -49,8 +49,9 @@
   Arquitetura (Fluxo): 
     Descrição: ▶Inicio | ♦ Pagina Nova |♢Funcionalidade dentro da pagina |
   
-    | ▶ Home | ↦ | ♦ Entrar | ou | ♦ Cadastro | | ♦ Área Usuário | ↦ | ♢ Geral | ou | ♢ Confi. | ou | ♢ Vizualizar |  
+    | ▶ Home | ↦ | ♦ Entrar | ou | ♦ Cadastro | | ♦ Área Usuário | ↦ | ♢ Geral | ou | ♢ Confi. | ou | ♢ Vizualizar | ou | ♢ Sair |  
     | ♦ Cadastro | ↦ | ♢ Confirmação de email | ↦ | ♦ Área Usuário |
+    | ♢ Sair |↦| ▶ Home |
   
 ♦ Design
 Links externos utilizados:
