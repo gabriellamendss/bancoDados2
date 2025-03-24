@@ -12,7 +12,7 @@ Requisitos obrigatórios
  
 
 
-♦Detalhes do projeto
+♦ Detalhes do projeto
 
   Funcionalidades Usuário-Cliente 
    para cumprir requisito CRUD(create, read, update, delete).
@@ -41,6 +41,14 @@ Requisitos obrigatórios
   
     | ▶ Home | ↦ | ♦ Entrar | ou | ♦ Cadastro | | ♦ Área Usuário | ↦ | ♢ Geral | ou | ♢ Confi. | ou | ♢ Vizualizar |  
     | ♦ Cadastro | ↦ | ♢ Confirmação de email | ↦ | ♦ Área Usuário |
+  
+♦ Design
+   Figma link:
+    https://www.figma.com/design/JvwNbD9eN6ki9GaVnxaETf/Untitled?node-id=0-1&t=sf8lnwoEnwuKzPWU-1
+
+<img width="1512" alt="Main page" src="https://github.com/user-attachments/assets/5e682708-c782-4ef8-b2ea-fed80c181df7" />
+
+
 
 
 
