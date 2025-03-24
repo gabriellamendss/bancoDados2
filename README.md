@@ -1,4 +1,4 @@
-# bancoDados2
+
  Requisitos obrigatórios
  
     ∙ CRUD banco de dados
@@ -13,7 +13,7 @@
  
 
 
-♦ Detalhes do projeto
+# Detalhes do projeto
 
   Funcionalidades Usuário-Cliente 
   
@@ -53,7 +53,7 @@
     | ♦ Cadastro | ↦ | ♢ Confirmação de email | ↦ | ♦ Área Usuário |
     | ♢ Sair |↦| ▶ Home |
   
-♦ Design
+# Design
 Links externos utilizados:
   Fontes e Elementos
  
