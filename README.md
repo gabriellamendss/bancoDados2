@@ -35,7 +35,15 @@
 
   Funcionalidades Gerais
   
-     ∙ AAS
+     ∙ O sistema deve armazenar cada usuario junto com seu conteudo
+     ∙ Deve emitir um email de confirmação para novos usuarios
+
+
+  Links externos utilizados:
+
+      adda
+      ada
+      dad
 
 
   Arquitetura (Fluxo): 
@@ -45,6 +53,24 @@
     | ♦ Cadastro | ↦ | ♢ Confirmação de email | ↦ | ♦ Área Usuário |
   
 ♦ Design
+Links externos utilizados:
+  Fontes e Elementos
+ 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
+    href="https://fonts.gstatic.com"
+    href="https://fonts.googleapis.com"
+  Cores
+
+      --primary-color: #0B386F;
+      --light-color: #f4f4f6;
+      --dark-color: #020c18;
+
+   Fonte
+
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+    
    Figma
    
     link: https://www.figma.com/design/JvwNbD9eN6ki9GaVnxaETf/Untitled?node-id=0-1&t=sf8lnwoEnwuKzPWU-1
