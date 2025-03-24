@@ -41,7 +41,6 @@ Requisitos obrigatórios
  Arquitetura (Fluxo): 
    Descrição
     ▶Inicio|♦ Pagina Nova|♢Funcionalidade dentro da pagina|⇉Divide em duas possibilidades|
-
                                                 | ♢ Geral |
                                                      ↥
 | ▶ Home | ↦ | ♦ Entrar | ↦ | ♦ Área Usuário | ↦ |♢|↦ | ♢ Vizualizar |
