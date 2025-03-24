@@ -14,16 +14,19 @@ Requisitos obrigatórios
 ♦Detalhes do projeto
 
 
+
  
   Funcionalidades Usuário-Cliente 
    para cumprir requisito CRUD(create, read, update, delete).
     Produtos 
+    
      ∙ Usuário deve ser capaz de cadastrar.
      ∙ Usuário deve ser capaz de editar anteriormente cadastrado.
      ∙ Usuário deve ser capaz de adicionar. 
      ∙ Usuário deve ser capaz de remover. 
      ∙ Usuário deve ser capaz de visualizar a quantidade.
    Vendas
+   
      ∙ Usuário deve ser capaz de cadastrar.
      ∙ Usuário deve ser capaz de editar.
      ∙ Usuário deve ser capaz de adicionar. 
@@ -31,6 +34,7 @@ Requisitos obrigatórios
      ∙ Usuário deve ser capaz de visualizar o histórico.
 
   Funcionalidades Gerais
+  
      ∙ AAS
 
 
