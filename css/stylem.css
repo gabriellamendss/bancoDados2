@@ -9,7 +9,7 @@
   --light-color: #f4f4f6;
   --dark-color: #020c18;
 }
-
+ 
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
@@ -36,7 +36,20 @@ img {
   background: url("/images/mainBg.png");
   background-repeat: no-repeat;
   width: 100%; 
-  color: #ccc;
+  color: #f2eded;
+}
+
+.btn-e {
+  background-color: white ;
+  border: solid 2px white;
+  border-radius: 10px;
+  color: #33537a !important;
+  transition: 1ms;
+}
+
+.btn-e:hover{
+  background-color: transparent;
+  border: solid 2px #33537a;
 }
 
 /* Navbar */
@@ -93,6 +106,63 @@ img {
   width: 70%;
   margin-bottom: 20px;
 }
+/* Sobre nos */
+/* Sobre nos */
+.sobrenos {
+  padding: 50px 0;
+  background-color: #f4f4f4;
+  color: #000;
+  align-items: center;
+}
+
+.sobrenos .container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  /* Alinha verticalmente */
+}
+
+.sobrenos-text {
+  max-width: 600px;
+  margin-right: 40px;  /* Adiciona um espaçamento entre o texto e a imagem */
+}
+
+.sobrenos-text h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.sobrenos-text p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.sobrenos-card {
+  position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+.quadrado {
+  position: absolute;
+  border-radius: 10px;
+  background-color: rgb(213, 211, 211);
+  width: 300px;
+  height: 200px;
+  top: 20px;  /* Move o quadrado 20px para baixo */
+  left: 20px;  /* Move o quadrado 20px para a direita */
+  z-index: 1;
+}
+
+.imagem {
+  border-radius: 10px;
+  position: relative;
+  z-index: 2;
+  height: 200px;
+  width: auto;
+}
+
 
 /* Testemunhas */
 .testimonials {
